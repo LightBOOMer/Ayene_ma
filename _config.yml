@@ -1,5 +1,5 @@
-tite:"Bill OWONO"
-logo:img/télécharger.phg 
+tite: "Bill OWONO"
+logo: img/télécharger.phg 
 description: "portfolio Enseignant & Data Scientist"
 show_downoads: true
 theme: jekyll-theme-minimal
