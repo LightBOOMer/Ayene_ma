@@ -22,12 +22,13 @@
 - 📊 **Économétrie & Séries temporelles** : AR, MA, ARMA, ARIMA  
 - 💹 **Finance & Banque** : Marchés financiers, Analyse & Gestion des risques  
 - ⚙️ **Data & outils numériques** :  
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=visualstudio&logoColor=white)  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
    ![EViews](https://img.shields.io/badge/EViews-005BAC?style=for-the-badge&logo=databricks&logoColor=white)  
   ![Stata](https://img.shields.io/badge/Stata-1A64A0?style=for-the-badge&logo=stata&logoColor=white)  
-
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ---
 
 ## 💼 Expériences professionnelles  
