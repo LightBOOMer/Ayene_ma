@@ -70,3 +70,7 @@ Je crois que **la rigueur des mathématiques** alliée à **l’innovation numé
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](billolseno@outlook.fr)  
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]( https://x.com/Bill_OWONO?t=QLAE_pyfRnAq4wdc-kE-IA&s=09)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]( https://www.facebook.com/share/15qoa2sxGU/)  
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]( https://www.tiktok.com/@billolseno?_t=ZN-8zGfIxWbFI6&_r=1 )  
+
