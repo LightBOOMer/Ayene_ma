@@ -63,6 +63,6 @@ Je crois que **la rigueur des mathématiques** alliée à **l’innovation numé
 ---
 
 ## 📫 Me contacter  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)  
-[![Twitter] https://x.com/Bill_OWONO?t=QLAE_pyfRnAq4wdc-kE-IA&s=09
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bill-olsen-owono-mezui-005169372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bilolseno@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]( https://x.com/Bill_OWONO?t=QLAE_pyfRnAq4wdc-kE-IA&s=09)
